@@ -15,8 +15,7 @@ Python、TensorFlow、Keras、Flask、HTML、JavaScript
 TF-Flowers共5类花卉3278张图片
 
 功能展示：
-首页：home.png
-识别结果：result.png
-摄像头实时识别：camera.png
-
+首页：![首页](home.png)
+识别结果：![识别结果](result.png)
+摄像头实时识别：![实时识别](camera.png)
 项目演示视频：百度网盘链接
