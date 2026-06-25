@@ -18,4 +18,5 @@ TF-Flowers共5类花卉3278张图片
 首页：![首页](home.png)
 识别结果：![识别结果](result.png)
 摄像头实时识别：![实时识别](camera.png)
-项目演示视频：百度网盘链接
+
+项目演示视频：百度网盘链接: https://pan.baidu.com/s/1yaJ4waVyvpY47bn7z8GYkQ 提取码: 1111
